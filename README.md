@@ -4,8 +4,11 @@ Analysis to see relationship between Covid-19 and happy, developed countries.
 Objective: An interesting analysis to see any relationship between Covid-19 and happy,developed countries.
 
 Three datasets used:
+
 1.COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country.
+
 2.World happiness dataset
+
 3. Covid 19 deaths dataset.
 
 Modules imported
