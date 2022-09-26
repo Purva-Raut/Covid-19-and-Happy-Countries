@@ -17,4 +17,4 @@ pandas, numpy, matplotlib.pyplot, seaborn
 Insights:
 People who live in developed countries are more prone to get the infection with comparison to the less developed countries.
 But,this might be due to lack of corona test kits in the less developed countries.
-Hence the same analysis was don using the covid deaths datasets and world happiness dataset and got the same results.
+Hence the same analysis was done using the covid deaths datasets and world happiness dataset and got the same results.
